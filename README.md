@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Animated Banner">
 </p>
 
-
-
 <h1 align="center">👋 Hi, I'm <span style="color:#f77800;">Fizza Ahmed</span></h1>
 <h3 align="center">🎓 Data Science Student | 💻 Python & SQL Developer | 📊 Insight from Data</h3>
 

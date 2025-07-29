@@ -60,16 +60,34 @@
 ➡️ Explore more in [My Repositories »](https://github.com/FizzaAhmed7?tab=repositories)
 
 ---
-
 ## 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist-green?style=flat-square&logo=datacamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataCamp-AI%20Engineer-blueviolet?style=flat-square&logo=datacamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-AI%20Essentials-blue?style=flat-square&logo=coursera"/>
-  <img src="https://img.shields.io/badge/DataCamp-SQL%20%26%20Python-brightgreen?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Google-AI%20Workshop-red?style=flat-square&logo=google"/>
+  <a href="https://www.datacamp.com/your-datascientist-cert-link" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist-green?style=flat-square&logo=datacamp&logoColor=white"/>
+  </a>
+  <br>
+
+  <a href="https://www.datacamp.com/your-aiengineer-cert-link" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-AI%20Engineer-blueviolet?style=flat-square&logo=datacamp&logoColor=white"/>
+  </a>
+  <br>
+
+  <a href="https://www.coursera.org/your-aiessentials-cert-link" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-AI%20Essentials-blue?style=flat-square&logo=coursera"/>
+  </a>
+  <br>
+
+  <a href="https://www.datacamp.com/your-sqlpython-cert-link" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-SQL%20%26%20Python-brightgreen?style=flat-square&logo=python"/>
+  </a>
+  <br>
+
+  <a href="https://www.google.com/your-aiworkshop-link" target="_blank">
+    <img src="https://img.shields.io/badge/Google-AI%20Workshop-red?style=flat-square&logo=google"/>
+  </a>
 </p>
+
 
 ---
 

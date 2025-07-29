@@ -3,10 +3,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Animated Banner">
 </p>
 
-<!-- 👩‍💻 Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/167757621?v=4" width="140" alt="Fizza Ahmed" style="border-radius:50%;" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#f77800;">Fizza Ahmed</span></h1>
 <h3 align="center">🎓 Data Science Student | 💻 Python & SQL Developer | 📊 Insight from Data</h3>

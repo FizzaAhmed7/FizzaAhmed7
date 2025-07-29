@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#f77800;">Fizza Ahmed</span></h1>
-<h3 align="center">🎓 Data Science Student | 💻 Python & SQL Developer | 📊 Data to Decisions</h3>
+<h3 align="center">🎓 Third-Year Data Science @NED | 💻 Python, SQL, ML Enthusiast | 📊 Insights to Impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F77800&center=true&vCenter=true&width=480&lines=Transforming+Data+into+Insights;Building+ML+Models+%26+Dashboards;Learning%2C+Sharing%2C+Improving" />

@@ -40,19 +40,15 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/ml.png"/></td>
     <td><strong>TrafficCook</strong><br>ML-based recipe recommendation system based on user preferences.<br><i>Python • Scikit-learn • Pandas</i></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/payroll.png"/></td>
     <td><strong>Salary Management System</strong><br>Payroll automation using triggers, procedures & constraints.<br><i>Oracle SQL</i></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/48/line-chart.png"/></td>
     <td><strong>Sales Analysis Dashboard</strong><br>Retail EDA, trend insights, and KPI visualizations.<br><i>Python • Matplotlib • Pandas</i></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/48/calendar.png"/></td>
     <td><strong>Event Management System</strong><br>Normalized event planner with filters and indexing.<br><i>Oracle SQL</i></td>
   </tr>
 </table>

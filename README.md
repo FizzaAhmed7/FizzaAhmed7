@@ -65,6 +65,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist-green?style=flat-square&logo=datacamp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataCamp-AI%20Engineer-blueviolet?style=flat-square&logo=datacamp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-AI%20Essentials-blue?style=flat-square&logo=coursera"/>
   <img src="https://img.shields.io/badge/DataCamp-SQL%20%26%20Python-brightgreen?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/Google-AI%20Workshop-red?style=flat-square&logo=google"/>

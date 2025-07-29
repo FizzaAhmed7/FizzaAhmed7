@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#f77800;">Fizza Ahmed</span></h1>
-<h3 align="center">🎓 Data Science Student | 💻 Python & SQL Developer | 📊 Insight from Data</h3>
+<h3 align="center">🎓 Data Science Student | 💻 Python & SQL Developer | 📊 Data to Decisions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F77800&center=true&vCenter=true&width=480&lines=Transforming+Data+into+Insights;Building+ML+Models+%26+Dashboards;Learning%2C+Sharing%2C+Improving" />
@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 
-- 🎓 Final-year **Data Science student** at **NED University**
+- 🎓 **Third-year Data Science student** at **NED University**
 - 🧠 Skilled in **Python, Oracle SQL, EDA, Visualizations & ML**
 - 🏢 **Internship:** Pakistan Cables Ltd — Data metrics, tracking systems, and reporting
 - 🌱 Actively learning AI, dashboards, and analytics tools
@@ -60,6 +60,7 @@
 ➡️ Explore more in [My Repositories »](https://github.com/FizzaAhmed7?tab=repositories)
 
 ---
+
 ## 📜 Certifications
 
 <p>
@@ -87,7 +88,6 @@
     <img src="https://img.shields.io/badge/Google-AI%20Workshop-red?style=flat-square&logo=google"/>
   </a>
 </p>
-
 
 ---
 
